@@ -8,7 +8,8 @@ git clone https://github.com/andystanley/zippy.git
 ```
 
 **Run the zippy CLI**  
-```cd zippy 
+```
+cd zippy 
 bin/zippy-cli
 ```
 
