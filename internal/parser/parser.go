@@ -19,6 +19,8 @@ func Parse(args []string) {
 		fmt.Println("	get key")
 		fmt.Println("	delete key")
 		fmt.Println("	keys")
+		fmt.Println("	clear")
+		fmt.Println("	exit")
 	case "keys":
 		keys := store.Keys()
 		for _, key := range keys {
