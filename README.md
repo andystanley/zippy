@@ -38,7 +38,7 @@ name
 sport
 >>> exit
 ```
-Of course it will! If you're curious to see how this works check out the **How Does Zippy Work?** section
+Of course it will! If you're curious to see how this works check out the **How Does Zippy Work?**
 
 ## Available Commands
 `set key value` Stores a key with the value provided  
