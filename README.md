@@ -26,7 +26,7 @@ Welcome to zippy!
 andrew
 >>> set sport soccer
 >>> keys
-andrew
+name
 sport
 >>> exit
 ```
@@ -34,7 +34,7 @@ Awesome we can store some data and access it really quickly! But will our data b
 ```
 Welcome to zippy!
 >>> keys
-andrew
+name
 sport
 >>> exit
 ```
